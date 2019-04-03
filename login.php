@@ -6,7 +6,7 @@
             <p>パスワード<input type="password" name="password"></p>
             <input type="submit" value="ログイン">
         </form>
-        <button onclick="location.href='./input_user_info.php">新規登録</button>
+        <button onclick="location.href='input_user_info.php'">新規登録</button>
     </div>
 
 
