@@ -10,6 +10,8 @@ password VARCHAR (255)
 
 $res = $pdo->query($sql);
 
+echo 'テーブルが作成されました';
+
 } catch(PDOException $e) {
 
     echo $e->getMessage();
