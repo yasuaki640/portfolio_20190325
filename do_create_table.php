@@ -12,7 +12,6 @@ password VARCHAR (255)
 
     echo '<p>テーブルが作成されました<p>
         <button onclick="location.href=\'login.php\'">ログイン</button>
-
 ';
 
 
