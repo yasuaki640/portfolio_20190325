@@ -6,8 +6,10 @@ $pdo = new PDO('mysql:host=localhost;dbname=portfolio_20190325;charset=utf8', 'r
 unset($_SESSION['user']);
 
 
-
 $sql = $pdo->prepare('insert into users  values(null,?,?)');
-$sql->execute([$_REQUEST['name'],$_REQUEST['password']]);
+$sql->execute([$_REQUEST['name'], $_REQUEST['password']]);
 
-echo '登録完了';
+echo '<p>登録完了<p>
+        <button onclick="location.href=\'login.php\'">ログイン</button>
+
+';
