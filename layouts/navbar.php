@@ -1,21 +1,14 @@
-<ul class="nav nav-pills justify-content-center">
+<ul class="nav justify-content-center">
     <li class="nav-item">
-        <a class="nav-link" href="#">会社案内</a>
-    </li>
-    <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">商品カテゴリ</a>
-        <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">ドラム</a>
-            <a class="dropdown-item" href="#">ギター</a>
-            <a class="dropdown-item" href="#">ピアノ</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">その他日用品</a>
-        </div>
+        <a class="nav-link active" href="#">Active</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="#"></a>
+        <a class="nav-link" href="#">Link</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="#">お問い合わせ</a>
+        <a class="nav-link" href="#">Link</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
     </li>
 </ul>
