@@ -1,6 +1,6 @@
 <?php require_once(dirname(__FILE__) . '/layouts/header.php') ?>
 
-<?php require_once(dirname(__FILE__) . '/layouts/header.php') ?>
+<?php require_once(dirname(__FILE__) . '/layouts/navbar.php') ?>
 
 
 <?php
@@ -17,7 +17,7 @@ if (!isset($_SESSION['user'])) {
         <div class="row">
             <div class="col-md-6">
                 <div class="container-fluid mx-auto my-4" style="max-width: 800px">
-                    <img src="storage/public/Product/139808064.jpg">
+                    <img src="storage/public/product/139808064.jpg">
                 </div>
             </div>
             <div class="col-md-6">
