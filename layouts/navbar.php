@@ -1,4 +1,4 @@
-<ul class="nav nav-pills justify-content-center border">
+<ul class="nav nav-pills justify-content-center border bg-light">
     <li class="nav-item">
         <a class="nav-link" href="#">会社案内</a>
     </li>
