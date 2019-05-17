@@ -36,7 +36,7 @@ if (!isset($_SESSION['user'])) {
 </div>
 
 
-<button class="mx-auto d-block" onclick="location.href='logout.php'">ログアウト</button>
+<button class="mx-auto d-block" onclick="location.href='do_logout.php'">ログアウト</button>
 
 
 <?php require_once(dirname(__FILE__) . '/layouts/footer.php') ?>
