@@ -11,7 +11,7 @@ if (!isset($_SESSION['user'])) {
 }
 ?>
 
-<div class="container-fluid">
+<div class="container-fluid" style="max-width: 80%">
 
     <div class="container mt-2 mb-4">
         <div class="row">
