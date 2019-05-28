@@ -2,7 +2,8 @@
 session_start();
 unset($_SESSION['user']);
 
-$pdo = new PDO('mysql:host=localhost;dbname=portfolio_20190325;charset=utf8', 'root', 'pass');
+$pdo = new PDO('mysql:host=arfo8ynm6olw6vpn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=pt69kqedzqel4l2k;charset=utf8', 'pfj37tg77uvjegm4', 'kqvusdpk8y6lpita');
+
 unset($_SESSION['user']);
 
 
