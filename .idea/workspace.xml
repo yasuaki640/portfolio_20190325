@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63bd94ca-b5cd-4350-9120-3accbafcdd27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="63bd94ca-b5cd-4350-9120-3accbafcdd27" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="102" selection-start-line="18" selection-start-column="102" selection-end-line="18" selection-end-column="102" />
+              <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -155,11 +153,6 @@
             <path>
               <item name="portfolio_20190325" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio_20190325" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio_20190325" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio_20190325" type="462c0819:PsiDirectoryNode" />
               <item name="storage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -174,13 +167,6 @@
               <item name="storage" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio_20190325" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio_20190325" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,18 +231,17 @@
       <workItem from="1557998366149" duration="4631000" />
       <workItem from="1558071154697" duration="381000" />
       <workItem from="1558071619298" duration="1136000" />
-      <workItem from="1559033926721" duration="1302000" />
+      <workItem from="1559033926721" duration="1860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38285000" />
+    <option name="totallyTimeSpent" value="38843000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11247335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -383,7 +368,7 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="102" selection-start-line="18" selection-start-column="102" selection-end-line="18" selection-end-column="102" />
+          <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
         </state>
       </provider>
     </entry>
