@@ -16,7 +16,7 @@ if (!isset($_SESSION['user'])) {
     <div class="container mt-2 mb-4">
         <div class="row">
             <div class="col-md-6">
-                <img class="mx-auto" style="max-width: 100%" src="storage/public/product/139808064.jpg">
+                <img class="mx-auto" style="max-width: 100%" src="storage/public/shop/shop_logo.png">
             </div>
             <div class="col-md-6">
                 <div class="mr-auto">
