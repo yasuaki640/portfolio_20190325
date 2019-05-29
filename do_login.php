@@ -15,7 +15,11 @@ foreach ($sql->fetchAll() as $item) {
     ];
 }
 
+//ユーザーが見つからなかったときの処理
 if (!isset($_SESSION['user'])) {
     echo 'ユーザーネームもしくはパスワードが間違っています。';
 }
+
+
+
 header('Location: index.php');
