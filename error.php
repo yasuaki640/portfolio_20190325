@@ -1,7 +1,7 @@
 <?php require_once(dirname(__FILE__) . '/layouts/header.php') ?>
 
 <div class="container-fluid" style="max-width: 80%">
-    <p>予期せぬエラーが発生しました。</p>
+    <p class="text-center">予期せぬエラーが発生しました。</p>
 </div>
 
 
