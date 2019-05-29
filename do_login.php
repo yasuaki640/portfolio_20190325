@@ -15,8 +15,7 @@ foreach ($sql->fetchAll() as $item) {
     ];
 }
 
-if(isset($_SESSION['user'])) {
-    header('Location: index.php');
-}elseif (!isset($_SESSION['user'])) {
+if (!isset($_SESSION['user'])) {
     echo 'ユーザーネームもしくはパスワードが間違っています。';
 }
+header('Location: index.php');
