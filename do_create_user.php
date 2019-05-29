@@ -7,7 +7,11 @@ unset($_SESSION['user']);
 
 
 $sql = $pdo->prepare('insert into users  values(null,?,?)');
-$sql->execute([$_REQUEST['name'], $_REQUEST['password']]);
+
+//パスワードのハッシュ化
+$hashed_password = password_hash($_REQUEST['password'],PASSWORD_BCRYPT);
+
+$sql->execute([$_REQUEST['name'], $hashed_password]);
 
 echo '<p>登録完了<p>
         <button onclick="location.href=\'login.php\'">ログイン</button>
