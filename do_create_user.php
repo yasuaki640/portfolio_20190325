@@ -1,8 +1,7 @@
 <?php
 session_start();
 unset($_SESSION['user']);
-
-$pdo = new PDO('mysql:host=localhost;dbname=portfolio_20190325;charset=utf8', 'root', 'pass');
+require_once ('config_db.php');
 unset($_SESSION['user']);
 
 
