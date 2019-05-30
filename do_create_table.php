@@ -1,6 +1,6 @@
 <?php
 try {
-    $pdo = new PDO('mysql:host=localhost;dbname=portfolio_20190325;charset=utf8', 'root', 'pass');
+    require_once('config_db.php');
 
     $sql = 'create table users (
 id INT(11) AUTO_INCREMENT PRIMARY KEY,
